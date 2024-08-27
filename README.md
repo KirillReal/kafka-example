@@ -1,6 +1,7 @@
 ## Проект "AccountService"
 ### Сервис принимающий на вход данные пользователя и создающий аккаунт для данного пользователя
 ## Используемые технологии
+* JDK 17
 * Spring (Boot, Core, Integration, Data, Web)
 * Liquibase
 * Kafka
