@@ -5,5 +5,5 @@ import com.example.accountservice.dao.entity.UserEntity;
 
 public interface AccountService {
 
-    AccountEntity createAccount(UserEntity user);
+    AccountEntity createAccount(UserEntity userEntity);
 }
